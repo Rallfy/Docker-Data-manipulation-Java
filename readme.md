@@ -8,8 +8,8 @@ Install the latest version of JDK 19.
 ### 2. Docker  
 Docker is required for running the project. It is recommended to use Docker on Linux.
 
-- **Ubuntu Installation**: Follow the official guide [here](https://docs.docker.com/engine/install/ubuntu/).
-- **Windows Installation**: Follow the official guide [here](https://docs.docker.com/desktop/install/windows-install/).
+- **Ubuntu Installation**: Follow the official guide [here](https://docs.docker.com/engine/install/ubuntu/)
+- **Windows Installation**: Follow the official guide [here](https://docs.docker.com/desktop/install/windows-install/)
 
 ### 3. Make  
 Make is required to execute the build commands.
